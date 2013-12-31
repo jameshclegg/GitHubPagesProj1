@@ -4,8 +4,8 @@ description: "Teaching materials"
 url: "http://jameshclegg.github.io/GitHubPagesProj1"
 #url: "http://localhost:4000"
 
-paginate: 10
+#paginate: 10
 
-markdown: rdiscount
+#markdown: rdiscount
 permalink: pretty
 pygments: true
