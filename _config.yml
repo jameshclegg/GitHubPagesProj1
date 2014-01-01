@@ -1,10 +1,6 @@
-name: "James Clegg"
-description: "Teaching materials"
-
-url: "http://jameshclegg.github.io/GitHubPagesProj1"
-
+# Jekyll
+permalink: /:year/:title/
 paginate: 10
-
-markdown: rdiscount
-permalink: pretty
-pygments: true
+exclude: []
+name: Jekyll Bootstrap
+baseurl: /jekyll-bootstrap
