@@ -1,8 +1,7 @@
 name: "James Clegg"
 description: "Teaching materials"
 
-#url: "http://jameshclegg.github.io/GitHubPagesProj1"
-url: "http://localhost:4000"
+url: "http://jameshclegg.github.io/GitHubPagesProj1"
 
 paginate: 10
 
