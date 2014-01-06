@@ -1,6 +1,16 @@
 # Jekyll
-permalink: /:year/:title/
+#permalink: /:year/:title/
+#paginate: 10
+#exclude: []
+#name: jameshclegg
+#baseurl: /GitHubPagesProj1/
+
+name: "jameshclegg"
+description: "Personal website"
+
+url: "https://jameshclegg.githubpages.io/GitHubPagesProj1"
+
 paginate: 10
-exclude: []
-name: jameshclegg
-baseurl: /GitHubPagesProj1/
+
+permalink: pretty
+pygments: true
