@@ -1,0 +1,27 @@
+# Logfile created on 2014-01-06 17:19:05 +0000 by logger.rb/41954
+I, [2014-01-06T17:19:05.691772 #16539]  INFO -- : 0:  RedCloth (4.2.9) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/RedCloth-4.2.9.gemspec
+I, [2014-01-06T17:19:06.565227 #16539]  INFO -- : 0:  blankslate (2.1.2.4) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/blankslate-2.1.2.4.gemspec
+I, [2014-01-06T17:19:07.675971 #16539]  INFO -- : 0:  fast-stemmer (1.0.2) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/fast-stemmer-1.0.2.gemspec
+I, [2014-01-06T17:19:08.543887 #16539]  INFO -- : 0:  classifier (1.3.4) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/classifier-1.3.4.gemspec
+I, [2014-01-06T17:19:09.356376 #16539]  INFO -- : 0:  colorator (0.1) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/colorator-0.1.gemspec
+I, [2014-01-06T17:19:10.371242 #16539]  INFO -- : 0:  highline (1.6.20) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/highline-1.6.20.gemspec
+I, [2014-01-06T17:19:11.277698 #16539]  INFO -- : 0:  commander (4.1.5) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/commander-4.1.5.gemspec
+I, [2014-01-06T17:19:17.137263 #16539]  INFO -- : 0:  ffi (1.9.3) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/ffi-1.9.3.gemspec
+I, [2014-01-06T17:19:18.115945 #16539]  INFO -- : 0:  liquid (2.5.4) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/liquid-2.5.4.gemspec
+I, [2014-01-06T17:19:19.097893 #16539]  INFO -- : 0:  rb-fsevent (0.9.4) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/rb-fsevent-0.9.4.gemspec
+I, [2014-01-06T17:19:19.884095 #16539]  INFO -- : 0:  rb-inotify (0.9.3) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/rb-inotify-0.9.3.gemspec
+I, [2014-01-06T17:19:20.770465 #16539]  INFO -- : 0:  rb-kqueue (0.2.0) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/rb-kqueue-0.2.0.gemspec
+I, [2014-01-06T17:19:21.650742 #16539]  INFO -- : 0:  listen (1.3.1) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/listen-1.3.1.gemspec
+I, [2014-01-06T17:19:22.826525 #16539]  INFO -- : 0:  maruku (0.7.0) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/maruku-0.7.0.gemspec
+I, [2014-01-06T17:19:24.056338 #16539]  INFO -- : 0:  posix-spawn (0.3.8) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/posix-spawn-0.3.8.gemspec
+I, [2014-01-06T17:19:26.279502 #16539]  INFO -- : 0:  yajl-ruby (1.1.0) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/yajl-ruby-1.1.0.gemspec
+I, [2014-01-06T17:19:28.013184 #16539]  INFO -- : 0:  pygments.rb (0.5.4) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/pygments.rb-0.5.4.gemspec
+I, [2014-01-06T17:19:31.716863 #16539]  INFO -- : 0:  redcarpet (2.3.0) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/redcarpet-2.3.0.gemspec
+I, [2014-01-06T17:19:32.557110 #16539]  INFO -- : 0:  safe_yaml (0.9.7) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/safe_yaml-0.9.7.gemspec
+I, [2014-01-06T17:19:33.496919 #16539]  INFO -- : 0:  parslet (1.5.0) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/parslet-1.5.0.gemspec
+I, [2014-01-06T17:19:34.306686 #16539]  INFO -- : 0:  toml (0.1.0) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/toml-0.1.0.gemspec
+I, [2014-01-06T17:19:35.518646 #16539]  INFO -- : 0:  jekyll (1.4.2) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/jekyll-1.4.2.gemspec
+I, [2014-01-06T17:19:37.316022 #16539]  INFO -- : 0:  kramdown (1.2.0) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/kramdown-1.2.0.gemspec
+I, [2014-01-06T17:19:40.611571 #16539]  INFO -- : 0:  rdiscount (2.1.7) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/rdiscount-2.1.7.gemspec
+I, [2014-01-06T17:19:41.478204 #16539]  INFO -- : 0:  github-pages (12) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/github-pages-12.gemspec
+I, [2014-01-06T17:19:41.479062 #16539]  INFO -- : 0:  bundler (1.5.1) from /Users/jc211/.rvm/gems/ruby-2.0.0-p353/specifications/bundler-1.5.1.gemspec
