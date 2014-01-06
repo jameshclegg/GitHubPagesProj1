@@ -3,4 +3,4 @@ permalink: /:year/:title/
 paginate: 10
 exclude: []
 name: jameshclegg
-baseurl: /GitHubPagesProj1/
+baseurl: /JekyllBootstrap
